@@ -58,6 +58,10 @@ span#controls, span#copyright {
     float: right;
 }
 
+span#controls {
+    font-size: 12px;
+}
+
 span#controls > span {
     cursor: pointer;
 }
