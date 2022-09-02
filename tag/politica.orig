@@ -47,24 +47,24 @@
     
 </strong>
 <span class="separator">|</span>
-<a href="./">HOME</a>
+<a href="http://127.0.0.1:5000/">HOME</a>
 
 <span id="tags_links">
     
         
-            <a href="/tag/"></a>
+            <a href="http://127.0.0.1:5000/tag/"></a>
         
     
         
-            <a href="/tag/economia">Economia</a>
+            <a href="http://127.0.0.1:5000/tag/economia">Economia</a>
         
     
         
-            <a href="/tag/energia">Energia</a>
+            <a href="http://127.0.0.1:5000/tag/energia">Energia</a>
         
     
         
-            <a href="/tag/finanza">Finanza</a>
+            <a href="http://127.0.0.1:5000/tag/finanza">Finanza</a>
         
     
         
@@ -113,14 +113,14 @@
     
         <li>
             <br />
-            <h3><a href="/article/2022-08-24_il-premier-belga-avverte-che-i-prossimi-5-10-inverni-saranno-difficili-mentre-la-crisi-energetica-peggiora">Il premier belga avverte che &#39;i prossimi 5-10 inverni saranno difficili&#39; mentre la crisi energetica peggiora</a></h3>
+            <h3><a href="http://127.0.0.1:5000/article/2022-08-24_il-premier-belga-avverte-che-i-prossimi-5-10-inverni-saranno-difficili-mentre-la-crisi-energetica-peggiora">Il premier belga avverte che &#39;i prossimi 5-10 inverni saranno difficili&#39; mentre la crisi energetica peggiora</a></h3>
             <p><small>Pubblicato il 24/08/2022 in energia e politica</small></p>
             <p>Ora i politici di Bruxelles usano parole dure agli europei e ostentano trasparenza, ma solo dopo aver traghettato il continente verso la crisi prossima ventura</p>
         </li>
     
         <li>
             <br />
-            <h3><a href="/article/2022-08-19_lettera-aperta-al-cancelliere-gli-artigiani-della-sassonia-chiedono-la-fine-delle-sanzioni-alla-russia">Lettera aperta al cancelliere: gli artigiani della Sassonia chiedono la fine delle sanzioni alla Russia</a></h3>
+            <h3><a href="http://127.0.0.1:5000/article/2022-08-19_lettera-aperta-al-cancelliere-gli-artigiani-della-sassonia-chiedono-la-fine-delle-sanzioni-alla-russia">Lettera aperta al cancelliere: gli artigiani della Sassonia chiedono la fine delle sanzioni alla Russia</a></h3>
             <p><small>Pubblicato il 19/08/2022 in economia e politica</small></p>
             <p>La repubblica federale tedesca nega a Putin l&#39;apertura del condotto Nord Stream 2, costato miliardi di euro ai contribuenti, ma in Germania si levano aspre proteste</p>
         </li>
@@ -136,49 +136,49 @@
                     <h2>Words-cloud</h2>
 <p id="cloud">
     
-        <a href="/search/germania">germania</a>
+        <a href="http://127.0.0.1:5000/search/germania">germania</a>
     
-        <a href="/search/naturale">naturale</a>
+        <a href="http://127.0.0.1:5000/search/naturale">naturale</a>
     
-        <a href="/search/artigiani">artigiani</a>
+        <a href="http://127.0.0.1:5000/search/artigiani">artigiani</a>
     
-        <a href="/search/governo">governo</a>
+        <a href="http://127.0.0.1:5000/search/governo">governo</a>
     
-        <a href="/search/ministro">ministro</a>
+        <a href="http://127.0.0.1:5000/search/ministro">ministro</a>
     
-        <a href="/search/sanzioni">sanzioni</a>
+        <a href="http://127.0.0.1:5000/search/sanzioni">sanzioni</a>
     
-        <a href="/search/forniture">forniture</a>
+        <a href="http://127.0.0.1:5000/search/forniture">forniture</a>
     
-        <a href="/search/affermato">affermato</a>
+        <a href="http://127.0.0.1:5000/search/affermato">affermato</a>
     
-        <a href="/search/federale">federale</a>
+        <a href="http://127.0.0.1:5000/search/federale">federale</a>
     
-        <a href="/search/statunitensi">statunitensi</a>
+        <a href="http://127.0.0.1:5000/search/statunitensi">statunitensi</a>
     
-        <a href="/search/prossimi">prossimi</a>
+        <a href="http://127.0.0.1:5000/search/prossimi">prossimi</a>
     
-        <a href="/search/ucraina">ucraina</a>
+        <a href="http://127.0.0.1:5000/search/ucraina">ucraina</a>
     
-        <a href="/search/proprio">proprio</a>
+        <a href="http://127.0.0.1:5000/search/proprio">proprio</a>
     
-        <a href="/search/europeo">europeo</a>
+        <a href="http://127.0.0.1:5000/search/europeo">europeo</a>
     
-        <a href="/search/milioni">milioni</a>
+        <a href="http://127.0.0.1:5000/search/milioni">milioni</a>
     
-        <a href="/search/lettera">lettera</a>
+        <a href="http://127.0.0.1:5000/search/lettera">lettera</a>
     
-        <a href="/search/sacrificare">sacrificare</a>
+        <a href="http://127.0.0.1:5000/search/sacrificare">sacrificare</a>
     
-        <a href="/search/firmatari">firmatari</a>
+        <a href="http://127.0.0.1:5000/search/firmatari">firmatari</a>
     
-        <a href="/search/cancelliere">cancelliere</a>
+        <a href="http://127.0.0.1:5000/search/cancelliere">cancelliere</a>
     
-        <a href="/search/secondo">secondo</a>
+        <a href="http://127.0.0.1:5000/search/secondo">secondo</a>
     
-        <a href="/search/trimestre">trimestre</a>
+        <a href="http://127.0.0.1:5000/search/trimestre">trimestre</a>
     
-        <a href="/search/posizioni">posizioni</a>
+        <a href="http://127.0.0.1:5000/search/posizioni">posizioni</a>
     
 </p>
                 </div>
@@ -256,11 +256,11 @@
             
                 <div class="grid">
                     <div class="content">
-                        <a href="/index">Index</a>
+                        <a href="http://127.0.0.1:5000/index">Index</a>
                         <span class="separator">|</span>
                         <a href="mailto:brtzz.mtt@protonmail.com">Redazione</a>
                         <span class="separator">|</span>
-                        <a href="/page/privacy">Privacy</a>
+                        <a href="http://127.0.0.1:5000/page/privacy">Privacy</a>
                         <span id="copyright">Copyright © 2022 FirePython</span>
                         <span id="copyright_mobile" title="Copyright © 2022 FirePython">©</span>
                     </div>
