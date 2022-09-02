@@ -33,7 +33,7 @@
     <link rel=icon href="/static/img/default/favicon.png" sizes="24x24" type="image/png" />
     <link rel="apple-touch-icon" href="/static/img/default/favicon.png">
     <link rel="manifest" href="/manifest.json">
-    <title>Taccuino22 | Index</title>
+    <title>Taccuino22</title>
     <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script defer src="/static/js/default.js"></script>
 </head>
@@ -43,7 +43,7 @@
         <nav><img id="logo" alt="logo" src="/static/img/default/logo_32.png" />
 <strong>
     
-        Taccuino22 | Index
+        Taccuino22
     
 </strong>
 <span class="separator">|</span>
@@ -108,91 +108,37 @@
         <article>
     <div class="grid">
         <div class="content">
-            <h1>Indice dei collegamenti</h1>
-<ul id="index">
+            <h1>Materiale su cui riflettere</h1>
+            <br />
+            <h2>Articoli</h2>
+<ul id="articles">
     
         <li>
-            <p><a href="https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Snag_5356ba6.png?itok=wodtd3zm" target="_blank"></a></p>
+            <br />
+            <h3><a href="/article/2022-08-25_gli-hedge-fund-piazzano-la-più-grande-scommessa-contro-il-debito-italiano-dal-2008">Gli hedge fund piazzano la più grande scommessa contro il debito italiano dal 2008</a></h3>
+            <p><small>Pubblicato il 25/08/2022 in </small></p>
+            <p>TODO</p>
         </li>
     
         <li>
-            <p><a href="https://it.wikipedia.org/wiki/Alexander_De_Croo" target="_blank">Alexander De Croo</a></p>
+            <br />
+            <h3><a href="/article/2022-08-24_il-premier-belga-avverte-che-i-prossimi-5-10-inverni-saranno-difficili-mentre-la-crisi-energetica-peggiora">Il premier belga avverte che &#39;i prossimi 5-10 inverni saranno difficili&#39; mentre la crisi energetica peggiora</a></h3>
+            <p><small>Pubblicato il 24/08/2022 in energia e politica</small></p>
+            <p>Ora i politici di Bruxelles usano parole dure agli europei e ostentano trasparenza, ma solo dopo aver traghettato il continente verso la crisi prossima ventura</p>
         </li>
     
         <li>
-            <p><a href="https://abc.xyz/" target="_blank">Alphabet Inc.</a></p>
+            <br />
+            <h3><a href="/article/2022-08-19_lettera-aperta-al-cancelliere-gli-artigiani-della-sassonia-chiedono-la-fine-delle-sanzioni-alla-russia">Lettera aperta al cancelliere: gli artigiani della Sassonia chiedono la fine delle sanzioni alla Russia</a></h3>
+            <p><small>Pubblicato il 19/08/2022 in economia e politica</small></p>
+            <p>La repubblica federale tedesca nega a Putin l&#39;apertura del condotto Nord Stream 2, costato miliardi di euro ai contribuenti, ma in Germania si levano aspre proteste</p>
         </li>
     
         <li>
-            <p><a href="https://www.energyaspects.com/" target="_blank">Energy Aspects Ltd.</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://www.fdp.de/" target="_blank">FDP</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://it.wikipedia.org/wiki/Fratturazione_idraulica" target="_blank">fracking</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://it.wikipedia.org/wiki/Gazprom" target="_blank">Gazprom</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://www.geogroup.com/" target="_blank">Geo Group Inc.</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://www.bloomberg.com/authors/ASIsQsgx0V8/javier-blas" target="_blank">Javier Blas</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://uk.linkedin.com/in/leonizbicki" target="_blank">Leon Izbicki</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://about.facebook.com/" target="_blank">Meta Platforms Inc.</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://en.wikipedia.org/wiki/Michael_Burry" target="_blank">Michael Burry</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://de.wikipedia.org/wiki/Nord_Stream" target="_blank">Nord Stream</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://it.wikipedia.org/wiki/Olaf_Scholz" target="_blank">Olaf Scholz</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://it.wikipedia.org/wiki/Robert_Habeck" target="_blank">Robert Habeck</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://www.scionasset.com/" target="_blank">Scion</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://www.spd.de/" target="_blank">SPD</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://www.miur.gov.it/documents/20182/4394634/1.%20Statuto-onu.pdf" target="_blank">Statuto delle Nazioni Unite</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://www.transparency.org/" target="_blank">Transparency International</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://it.wikipedia.org/wiki/Vladimir_Putin" target="_blank">Vladimir Putin</a></p>
-        </li>
-    
-        <li>
-            <p><a href="https://en.wikipedia.org/wiki/Wolfgang_Kubicki" target="_blank">Wolfgang Kubicki</a></p>
+            <br />
+            <h3><a href="/article/2022-08-15_lhedge-fund-di-michael-burry-ha-acquisito-un-nuovo-titolo-ma-scaricato-tutto-il-resto">L&#39;hedge fund di Michael Burry ha acquisito un nuovo titolo ma scaricato tutto il resto</a></h3>
+            <p><small>Pubblicato il 15/08/2022 in finanza</small></p>
+            <p>La liquidazione in massa di importanti asset del fondo di investimento lascia presagire tempi duri per le borse americane</p>
         </li>
     
 </ul>
@@ -326,7 +272,7 @@
             
                 <div class="grid">
                     <div class="content">
-                        <a href="/index">Index</a>
+                        <a href="/index/index">Index</a>
                         <span class="separator">|</span>
                         <a href="mailto:brtzz.mtt@protonmail.com">Redazione</a>
                         <span class="separator">|</span>
