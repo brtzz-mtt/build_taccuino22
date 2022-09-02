@@ -40,7 +40,7 @@
     <body class="default">
         <header><div class="grid">
     <div class="content">
-        <nav><img id="logo" alt="logo" src="/static/img/default/logo_32.png" />
+        <nav><img id="logo" alt="logo" src="/static/img/default/logo_32.png" width="18" height="18" />
 <strong>
     
         Taccuino22 | Energia
@@ -169,23 +169,23 @@
     
         <a href="/search/dollari">dollari</a>
     
-        <a href="/search/potrebbero">potrebbero</a>
-    
         <a href="/search/rischio">rischio</a>
     
         <a href="/search/gestori">gestori</a>
     
         <a href="/search/finanziari">finanziari</a>
     
-        <a href="/search/prossimi">prossimi</a>
-    
         <a href="/search/ucraina">ucraina</a>
-    
-        <a href="/search/proprio">proprio</a>
     
         <a href="/search/milioni">milioni</a>
     
         <a href="/search/lettera">lettera</a>
+    
+        <a href="/search/firmatari">firmatari</a>
+    
+        <a href="/search/cancelliere">cancelliere</a>
+    
+        <a href="/search/trimestre">trimestre</a>
     
 </p>
                 </div>
@@ -242,7 +242,7 @@
 </ul>
                 </div>
             </div>
-            <div class="grid" style="margin-top:16px">
+            <!--<div class="grid">
                 <div class="content" style="opacity:.25">
                     <h2>TODOS</h2>
 <ul id="todo">
@@ -257,7 +257,7 @@
     </li>
 </ul>
                 </div>
-            </div>
+            </div>-->
         </aside>
         <footer>
             

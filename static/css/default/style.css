@@ -40,8 +40,12 @@ div.content {
     border: solid 1px #999;
     border-radius: 4px;
     box-shadow: 0 2px #CCC;
-    margin: 8px;
+    margin: 8px 8px 0 8px;
     padding: 8px;
+}
+
+article div.content {
+    margin-right: 0;
 }
 
 body.night div.content {

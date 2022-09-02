@@ -1,0 +1,6 @@
+@media all and (max-width:856px)
+{
+    article div.content {
+        margin-right: 8px;
+    }
+}

@@ -40,7 +40,7 @@
     <body class="default">
         <header><div class="grid">
     <div class="content">
-        <nav><img id="logo" alt="logo" src="/static/img/default/logo_32.png" />
+        <nav><img id="logo" alt="logo" src="/static/img/default/logo_32.png" width="18" height="18" />
 <strong>
     
         Taccuino22
@@ -100,23 +100,16 @@
         <article>
     <div class="grid">
         <div class="content">
-            <h1>Risultati per 'proprio'</h1>
+            <h1>Risultati per 'trimestre'</h1>
             <br />
             <h2>Articoli</h2>
 <ul id="articles">
     
         <li>
             <br />
-            <h3><a href="/article/2022-08-24_il-premier-belga-avverte-che-i-prossimi-5-10-inverni-saranno-difficili-mentre-la-crisi-energetica-peggiora">Il premier belga avverte che &#39;i prossimi 5-10 inverni saranno difficili&#39; mentre la crisi energetica peggiora</a></h3>
-            <p><small>Pubblicato il 24/08/2022 in energia e politica</small></p>
-            <p>Ora i politici di Bruxelles usano parole dure agli europei e ostentano trasparenza, ma solo dopo aver traghettato il continente verso la crisi prossima ventura</p>
-        </li>
-    
-        <li>
-            <br />
-            <h3><a href="/article/2022-08-19_lettera-aperta-al-cancelliere-gli-artigiani-della-sassonia-chiedono-la-fine-delle-sanzioni-alla-russia">Lettera aperta al cancelliere: gli artigiani della Sassonia chiedono la fine delle sanzioni alla Russia</a></h3>
-            <p><small>Pubblicato il 19/08/2022 in economia e politica</small></p>
-            <p>La repubblica federale tedesca nega a Putin l&#39;apertura del condotto Nord Stream 2, costato miliardi di euro ai contribuenti, ma in Germania si levano aspre proteste</p>
+            <h3><a href="/article/2022-08-15_lhedge-fund-di-michael-burry-ha-acquisito-un-nuovo-titolo-ma-scaricato-tutto-il-resto">L&#39;hedge-fund di Michael Burry ha acquisito un nuovo titolo ma scaricato tutto il resto</a></h3>
+            <p><small>Pubblicato il 15/08/2022 in finanza</small></p>
+            <p>La liquidazione in massa di importanti asset del fondo di investimento lascia presagire tempi duri per le borse americane</p>
         </li>
     
 </ul>
@@ -178,23 +171,23 @@
     
         <a href="/search/dollari">dollari</a>
     
-        <a href="/search/potrebbero">potrebbero</a>
-    
         <a href="/search/rischio">rischio</a>
     
         <a href="/search/gestori">gestori</a>
     
         <a href="/search/finanziari">finanziari</a>
     
-        <a href="/search/prossimi">prossimi</a>
-    
         <a href="/search/ucraina">ucraina</a>
-    
-        <a href="/search/proprio">proprio</a>
     
         <a href="/search/milioni">milioni</a>
     
         <a href="/search/lettera">lettera</a>
+    
+        <a href="/search/firmatari">firmatari</a>
+    
+        <a href="/search/cancelliere">cancelliere</a>
+    
+        <a href="/search/trimestre">trimestre</a>
     
 </p>
                 </div>
@@ -251,7 +244,7 @@
 </ul>
                 </div>
             </div>
-            <div class="grid" style="margin-top:16px">
+            <!--<div class="grid">
                 <div class="content" style="opacity:.25">
                     <h2>TODOS</h2>
 <ul id="todo">
@@ -266,7 +259,7 @@
     </li>
 </ul>
                 </div>
-            </div>
+            </div>-->
         </aside>
         <footer>
             
