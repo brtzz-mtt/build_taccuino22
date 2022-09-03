@@ -231,11 +231,23 @@
         </li>
     
         <li>
+            <h3><a href="https://www.nature.com" target="_blank">nature.com</a></h3>
+        </li>
+    
+        <li>
+            <h3><a href="https://news.antiwar.com" target="_blank">news.antiwar.com</a></h3>
+        </li>
+    
+        <li>
             <h3><a href="https://www.spiegel.de" target="_blank">spiegel.de</a></h3>
         </li>
     
         <li>
             <h3><a href="https://www.spiked-online.com" target="_blank">spiked-online.com</a></h3>
+        </li>
+    
+        <li>
+            <h3><a href="https://towardfreedom.org" target="_blank">towardfreedom.org</a></h3>
         </li>
     
         <li>
@@ -249,22 +261,6 @@
 </ul>
                 </div>
             </div>
-            <!--<div class="grid">
-                <div class="content" style="opacity:.25">
-                    <h2>TODOS</h2>
-<ul id="todo">
-    <li>
-        <p>Check on article links (and db links..) validity at start</p>
-    </li>
-    <li>
-        <p>What about full-text search form only for local..?</p>
-    </li>
-    <li>
-        <p>SASS / LESS syntax for css..</p>
-    </li>
-</ul>
-                </div>
-            </div>-->
         </aside>
         <footer>
             
