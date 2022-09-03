@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE = edge" />
 <meta name="viewport" content="width = device-width, initial-scale = 1.0" />
 <meta name="copyright" content="Copyright © 2022 FirePython" />
-<meta name="description" content="Materiale su cui riflettere" />
+<meta name="description" content="Un pò di materiale su cui riflettere.." />
 <meta name="designer" content="FirePython" />
 <meta name="keywords" content="News Blog Python Flask" />
 <meta name="url" content="https://taccuino22.netlify.app/" />
@@ -16,55 +16,59 @@
 <link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap" as="style" onload="this.onload=null; this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,400&display=swap"></noscript>
     <!--<link rel="stylesheet" href="/static/css/grid.css" />-->
-    <link rel="preload" href="../static/css/grid.css" as="style" onload="this.onload=null; this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="../static/css/grid.css"></noscript>
+    <link rel="preload" href="/static/css/grid.css" as="style" onload="this.onload=null; this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/static/css/grid.css"></noscript>
     <!--<link rel="stylesheet" href="/static/css/base.css" />-->
-    <link rel="preload" href="../static/css/base.css" as="style" onload="this.onload=null; this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="../static/css/base.css"></noscript>
+    <link rel="preload" href="/static/css/base.css" as="style" onload="this.onload=null; this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/static/css/base.css"></noscript>
     <!--<link rel="stylesheet" href="/static/css/base_rwd.css" />-->
-    <link rel="preload" href="../static/css/base_rwd.css" as="style" onload="this.onload=null; this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="../static/css/base_rwd.css"></noscript>
+    <link rel="preload" href="/static/css/base_rwd.css" as="style" onload="this.onload=null; this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/static/css/base_rwd.css"></noscript>
     <!--<link rel="stylesheet" href="/static/css/default/style.css" />-->
-    <link rel="preload" href="../static/css/default/style.css" as="style" onload="this.onload=null; this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="../static/css/default/style.css"></noscript>
+    <link rel="preload" href="/static/css/default/style.css" as="style" onload="this.onload=null; this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/static/css/default/style.css"></noscript>
     <!--<link rel="stylesheet" href="/static/css/default/style_rwd.css" />-->
-    <link rel="preload" href="../static/css/default/style_rwd.css" as="style" onload="this.onload=null; this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="../static/css/default/style_rwd.css"></noscript>
-    <link rel=icon href="../static/img/default/favicon.png" sizes="24x24" type="image/png" />
-    <link rel="apple-touch-icon" href="../static/img/default/favicon.png">
-    <link rel="manifest" href="../manifest.json">
+    <link rel="preload" href="/static/css/default/style_rwd.css" as="style" onload="this.onload=null; this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/static/css/default/style_rwd.css"></noscript>
+    <link rel=icon href="/static/img/default/favicon.png" sizes="24x24" type="image/png" />
+    <link rel="apple-touch-icon" href="/static/img/default/favicon.png">
+    <link rel="manifest" href="/manifest.json">
     <title>Taccuino22</title>
     <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script defer src="../static/js/default.js"></script>
+    <script defer src="/static/js/default.js"></script>
 </head>
     <body class="default">
         <header><div class="grid">
     <div class="content">
-        <nav><img id="logo" alt="logo" src="../static/img/default/logo_32.png" width="18" height="18" />
+        <nav><img id="logo" alt="logo" src="/static/img/default/logo_32.png" width="18" height="18" />
 <strong>
     
         Taccuino22
     
 </strong>
 <span class="separator">|</span>
-<a href="../index.html">HOME</a>
+<a href="/">HOME</a>
 
 <span id="tags_links">
     
         
-            <a href="../tag/economia.html">Economia</a>
+            <a href="/tag/economia">Economia</a>
         
     
         
-            <a href="../tag/energia.html">Energia</a>
+            <a href="/tag/energia">Energia</a>
         
     
         
-            <a href="../tag/finanza.html">Finanza</a>
+            <a href="/tag/finanza">Finanza</a>
         
     
         
-            <a href="../tag/politica.html">Politica</a>
+            <a href="/tag/guerra">Guerra</a>
+        
+    
+        
+            <a href="/tag/politica">Politica</a>
         
     
 </span>
@@ -81,6 +85,10 @@
     
         <option value="finanza">
             Finanza
+        </option>
+    
+        <option value="guerra">
+            Guerra
         </option>
     
         <option value="politica">
@@ -100,16 +108,16 @@
         <article>
     <div class="grid">
         <div class="content">
-            <h1>Risultati per 'firmatari'</h1>
+            <h1>Risultati per 'documentario'</h1>
             <br />
             <h2>Articoli</h2>
 <ul id="articles">
     
         <li>
             <br />
-            <h3><a href="../article/2022-08-19_lettera-aperta-al-cancelliere-gli-artigiani-della-sassonia-chiedono-la-fine-delle-sanzioni-alla-russia.html">Lettera aperta al cancelliere: gli artigiani della Sassonia chiedono la fine delle sanzioni alla Russia</a></h3>
-            <p><small>Pubblicato il 19/08/2022 in economia e politica</small></p>
-            <p>La repubblica federale tedesca nega a Putin l&#39;apertura del condotto Nord Stream 2, costato miliardi di euro ai contribuenti, ma in Germania si levano aspre proteste</p>
+            <h3><a href="/article/2022-08-17_guarda-il-film-arming-ukraine-che-la-cbs-ha-ritirato-dopo-le-pressioni-del-governo">Guarda il film &#39;Arming Ukraine&#39; che la CBS ha ritirato dopo le pressioni del governo</a></h3>
+            <p><small>Pubblicato il 17/08/2022 in guerra</small></p>
+            <p>Il ministro degli esteri ucraino ha chiesto un&#39;indagine sul documentario, dal quale è emerso che la maggior parte degli aiuti militari non arrivava in prima linea</p>
         </li>
     
 </ul>
@@ -123,71 +131,71 @@
                     <h2>Words-cloud</h2>
 <p id="cloud">
     
-        <a href="germania.html">germania</a>
+        <a href="/search/governo">governo</a>
     
-        <a href="naturale.html">naturale</a>
+        <a href="/search/germania">germania</a>
     
-        <a href="obbligazioni.html">obbligazioni</a>
+        <a href="/search/naturale">naturale</a>
     
-        <a href="governo.html">governo</a>
+        <a href="/search/ucraina">ucraina</a>
     
-        <a href="hedge-fund.html">hedge-fund</a>
+        <a href="/search/obbligazioni">obbligazioni</a>
     
-        <a href="investitori.html">investitori</a>
+        <a href="/search/documentario">documentario</a>
     
-        <a href="ministro.html">ministro</a>
+        <a href="/search/ministro">ministro</a>
     
-        <a href="scommesse.html">scommesse</a>
+        <a href="/search/hedge-fund">hedge-fund</a>
     
-        <a href="artigiani.html">artigiani</a>
+        <a href="/search/investitori">investitori</a>
     
-        <a href="finanziaria.html">finanziaria</a>
+        <a href="/search/scommesse">scommesse</a>
     
-        <a href="italiane.html">italiane</a>
+        <a href="/search/artigiani">artigiani</a>
     
-        <a href="europeo.html">europeo</a>
+        <a href="/search/statunitensi">statunitensi</a>
     
-        <a href="settembre.html">settembre</a>
+        <a href="/search/finanziaria">finanziaria</a>
     
-        <a href="nazioni.html">nazioni</a>
+        <a href="/search/italiane">italiane</a>
     
-        <a href="coalizione.html">coalizione</a>
+        <a href="/search/miliardi">miliardi</a>
     
-        <a href="sanzioni.html">sanzioni</a>
+        <a href="/search/europeo">europeo</a>
     
-        <a href="forniture.html">forniture</a>
+        <a href="/search/settembre">settembre</a>
     
-        <a href="federale.html">federale</a>
+        <a href="/search/dollari">dollari</a>
     
-        <a href="statunitensi.html">statunitensi</a>
+        <a href="/search/nazioni">nazioni</a>
     
-        <a href="preoccupazioni.html">preoccupazioni</a>
+        <a href="/search/coalizione">coalizione</a>
     
-        <a href="miliardi.html">miliardi</a>
+        <a href="/search/sanzioni">sanzioni</a>
     
-        <a href="elezioni.html">elezioni</a>
+        <a href="/search/forniture">forniture</a>
     
-        <a href="politica.html">politica</a>
+        <a href="/search/federale">federale</a>
     
-        <a href="dollari.html">dollari</a>
+        <a href="/search/ucraino">ucraino</a>
     
-        <a href="rischio.html">rischio</a>
+        <a href="/search/preoccupazioni">preoccupazioni</a>
     
-        <a href="gestori.html">gestori</a>
+        <a href="/search/elezioni">elezioni</a>
     
-        <a href="finanziari.html">finanziari</a>
+        <a href="/search/politica">politica</a>
     
-        <a href="ucraina.html">ucraina</a>
+        <a href="/search/rischio">rischio</a>
     
-        <a href="milioni.html">milioni</a>
+        <a href="/search/gestori">gestori</a>
     
-        <a href="lettera.html">lettera</a>
+        <a href="/search/finanziari">finanziari</a>
     
-        <a href="firmatari.html">firmatari</a>
+        <a href="/search/milioni">milioni</a>
     
-        <a href="cancelliere.html">cancelliere</a>
+        <a href="/search/persone">persone</a>
     
-        <a href="trimestre.html">trimestre</a>
+        <a href="/search/lettera">lettera</a>
     
 </p>
                 </div>
@@ -261,11 +269,11 @@
             
                 <div class="grid">
                     <div class="content">
-                        <a href="../index/index.html">Index</a>
+                        <a href="/index/index">Index</a>
                         <span class="separator">|</span>
                         <a href="mailto:brtzz.mtt@protonmail.com">Redazione</a>
                         <span class="separator">|</span>
-                        <a href="../page/privacy.html">Privacy</a>
+                        <a href="/page/privacy">Privacy</a>
                         <span id="copyright">Copyright © 2022 FirePython</span>
                         <span id="copyright_mobile" title="Copyright © 2022 FirePython">©</span>
                     </div>

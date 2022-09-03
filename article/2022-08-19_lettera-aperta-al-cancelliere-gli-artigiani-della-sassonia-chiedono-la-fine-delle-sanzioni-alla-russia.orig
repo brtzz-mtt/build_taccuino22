@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE = edge" />
 <meta name="viewport" content="width = device-width, initial-scale = 1.0" />
 <meta name="copyright" content="Copyright © 2022 FirePython" />
-<meta name="description" content="Materiale su cui riflettere" />
+<meta name="description" content="Un pò di materiale su cui riflettere.." />
 <meta name="designer" content="FirePython" />
 <meta name="keywords" content="News Blog Python Flask" />
 <meta name="url" content="https://taccuino22.netlify.app/" />
@@ -64,6 +64,10 @@
         
     
         
+            <a href="/tag/guerra">Guerra</a>
+        
+    
+        
             <a href="/tag/politica">Politica</a>
         
     
@@ -81,6 +85,10 @@
     
         <option value="finanza">
             Finanza
+        </option>
+    
+        <option value="guerra">
+            Guerra
         </option>
     
         <option value="politica">
@@ -132,31 +140,41 @@ Link all'<a href="https://www.spiegel.de/wirtschaft/unternehmen/brief-an-kanzler
                     <h2>Words-cloud</h2>
 <p id="cloud">
     
+        <a href="/search/governo">governo</a>
+    
         <a href="/search/germania">germania</a>
     
         <a href="/search/naturale">naturale</a>
     
+        <a href="/search/ucraina">ucraina</a>
+    
         <a href="/search/obbligazioni">obbligazioni</a>
     
-        <a href="/search/governo">governo</a>
+        <a href="/search/documentario">documentario</a>
+    
+        <a href="/search/ministro">ministro</a>
     
         <a href="/search/hedge-fund">hedge-fund</a>
     
         <a href="/search/investitori">investitori</a>
     
-        <a href="/search/ministro">ministro</a>
-    
         <a href="/search/scommesse">scommesse</a>
     
         <a href="/search/artigiani">artigiani</a>
+    
+        <a href="/search/statunitensi">statunitensi</a>
     
         <a href="/search/finanziaria">finanziaria</a>
     
         <a href="/search/italiane">italiane</a>
     
+        <a href="/search/miliardi">miliardi</a>
+    
         <a href="/search/europeo">europeo</a>
     
         <a href="/search/settembre">settembre</a>
+    
+        <a href="/search/dollari">dollari</a>
     
         <a href="/search/nazioni">nazioni</a>
     
@@ -168,17 +186,13 @@ Link all'<a href="https://www.spiegel.de/wirtschaft/unternehmen/brief-an-kanzler
     
         <a href="/search/federale">federale</a>
     
-        <a href="/search/statunitensi">statunitensi</a>
+        <a href="/search/ucraino">ucraino</a>
     
         <a href="/search/preoccupazioni">preoccupazioni</a>
-    
-        <a href="/search/miliardi">miliardi</a>
     
         <a href="/search/elezioni">elezioni</a>
     
         <a href="/search/politica">politica</a>
-    
-        <a href="/search/dollari">dollari</a>
     
         <a href="/search/rischio">rischio</a>
     
@@ -186,17 +200,11 @@ Link all'<a href="https://www.spiegel.de/wirtschaft/unternehmen/brief-an-kanzler
     
         <a href="/search/finanziari">finanziari</a>
     
-        <a href="/search/ucraina">ucraina</a>
-    
         <a href="/search/milioni">milioni</a>
     
+        <a href="/search/persone">persone</a>
+    
         <a href="/search/lettera">lettera</a>
-    
-        <a href="/search/firmatari">firmatari</a>
-    
-        <a href="/search/cancelliere">cancelliere</a>
-    
-        <a href="/search/trimestre">trimestre</a>
     
 </p>
                 </div>

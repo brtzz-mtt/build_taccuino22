@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE = edge" />
 <meta name="viewport" content="width = device-width, initial-scale = 1.0" />
 <meta name="copyright" content="Copyright © 2022 FirePython" />
-<meta name="description" content="Materiale su cui riflettere" />
+<meta name="description" content="Un pò di materiale su cui riflettere.." />
 <meta name="designer" content="FirePython" />
 <meta name="keywords" content="News Blog Python Flask" />
 <meta name="url" content="https://taccuino22.netlify.app/" />
@@ -64,6 +64,10 @@
         
     
         
+            <a href="/tag/guerra">Guerra</a>
+        
+    
+        
             <a href="/tag/politica">Politica</a>
         
     
@@ -81,6 +85,10 @@
     
         <option value="finanza">
             Finanza
+        </option>
+    
+        <option value="guerra">
+            Guerra
         </option>
     
         <option value="politica">
@@ -114,6 +122,13 @@
     
         <li>
             <br />
+            <h3><a href="/article/2022-08-17_guarda-il-film-arming-ukraine-che-la-cbs-ha-ritirato-dopo-le-pressioni-del-governo">Guarda il film &#39;Arming Ukraine&#39; che la CBS ha ritirato dopo le pressioni del governo</a></h3>
+            <p><small>Pubblicato il 17/08/2022 in guerra</small></p>
+            <p>Il ministro degli esteri ucraino ha chiesto un&#39;indagine sul documentario, dal quale è emerso che la maggior parte degli aiuti militari non arrivava in prima linea</p>
+        </li>
+    
+        <li>
+            <br />
             <h3><a href="/article/2022-08-15_lhedge-fund-di-michael-burry-ha-acquisito-un-nuovo-titolo-ma-scaricato-tutto-il-resto">L&#39;hedge-fund di Michael Burry ha acquisito un nuovo titolo ma scaricato tutto il resto</a></h3>
             <p><small>Pubblicato il 15/08/2022 in finanza</small></p>
             <p>La liquidazione in massa di importanti asset del fondo di investimento lascia presagire tempi duri per le borse americane</p>
@@ -130,31 +145,41 @@
                     <h2>Words-cloud</h2>
 <p id="cloud">
     
+        <a href="/search/governo">governo</a>
+    
         <a href="/search/germania">germania</a>
     
         <a href="/search/naturale">naturale</a>
     
+        <a href="/search/ucraina">ucraina</a>
+    
         <a href="/search/obbligazioni">obbligazioni</a>
     
-        <a href="/search/governo">governo</a>
+        <a href="/search/documentario">documentario</a>
+    
+        <a href="/search/ministro">ministro</a>
     
         <a href="/search/hedge-fund">hedge-fund</a>
     
         <a href="/search/investitori">investitori</a>
     
-        <a href="/search/ministro">ministro</a>
-    
         <a href="/search/scommesse">scommesse</a>
     
         <a href="/search/artigiani">artigiani</a>
+    
+        <a href="/search/statunitensi">statunitensi</a>
     
         <a href="/search/finanziaria">finanziaria</a>
     
         <a href="/search/italiane">italiane</a>
     
+        <a href="/search/miliardi">miliardi</a>
+    
         <a href="/search/europeo">europeo</a>
     
         <a href="/search/settembre">settembre</a>
+    
+        <a href="/search/dollari">dollari</a>
     
         <a href="/search/nazioni">nazioni</a>
     
@@ -166,17 +191,13 @@
     
         <a href="/search/federale">federale</a>
     
-        <a href="/search/statunitensi">statunitensi</a>
+        <a href="/search/ucraino">ucraino</a>
     
         <a href="/search/preoccupazioni">preoccupazioni</a>
-    
-        <a href="/search/miliardi">miliardi</a>
     
         <a href="/search/elezioni">elezioni</a>
     
         <a href="/search/politica">politica</a>
-    
-        <a href="/search/dollari">dollari</a>
     
         <a href="/search/rischio">rischio</a>
     
@@ -184,17 +205,11 @@
     
         <a href="/search/finanziari">finanziari</a>
     
-        <a href="/search/ucraina">ucraina</a>
-    
         <a href="/search/milioni">milioni</a>
     
+        <a href="/search/persone">persone</a>
+    
         <a href="/search/lettera">lettera</a>
-    
-        <a href="/search/firmatari">firmatari</a>
-    
-        <a href="/search/cancelliere">cancelliere</a>
-    
-        <a href="/search/trimestre">trimestre</a>
     
 </p>
                 </div>
