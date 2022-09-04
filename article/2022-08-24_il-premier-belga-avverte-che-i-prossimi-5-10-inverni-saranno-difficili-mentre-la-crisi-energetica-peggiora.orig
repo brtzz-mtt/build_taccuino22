@@ -52,6 +52,10 @@
 <span id="tags_links">
     
         
+            <a href="/tag/covid">Covid</a>
+        
+    
+        
             <a href="/tag/economia">Economia</a>
         
     
@@ -74,6 +78,11 @@
 </span>
 
 <select id="tags_selector">
+    <option />
+    
+        <option value="covid">
+            Covid
+        </option>
     
         <option value="economia">
             Economia
@@ -119,7 +128,7 @@
 <p>Il continente fa pesante affidamento sulla Russia per il proprio fabbisogno energetico, importandone circa il 40% del gas naturale. Questa settimana, ad un solo quinto della capacità di trasporto, con il rischio di andare a zero il mese prossimo, le forniture russe attraverso il <a href="https://de.wikipedia.org/wiki/Nord_Stream" referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank" title="Nord Stream">Nord Stream</a> 1 di <a href="https://it.wikipedia.org/wiki/Gazprom" referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank" title="Gazprom">Gazprom</a> hanno spedito il prezzo del gas naturale e dell'energia a livelli record.</p>
 <p>Lunedì i prezzi europei del gas naturale sono saliti al livello record di 277 euro per megawattora, circa 15 volte il prezzo medio estivo.</p>
 <p><a href="https://uk.linkedin.com/in/leonizbicki" referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank" title="Leon Izbicki">Leon Izbicki</a>, analista di materie prime presso <a href="https://www.energyaspects.com/" referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank" title="Energy Aspects Ltd.">Energy Aspects Ltd.</a>, ha detto a Bloomberg che se il trasporto tramite Nord Stream 1 si fermasse a settembre, i prezzi potrebbero salire a 400 euro per megawattora.</p>
-<p><img alt="" src="https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Snag_5356ba6.png?itok=wodtd3zm" /></p>
+<p><img alt="EU NatGas Prices" src="https://assets.zerohedge.com/s3fs-public/styles/inline_image_mobile/public/inline-images/Snag_5356ba6.png?itok=wodtd3zm" /></p>
 <p>Il giornalista di Bloomberg esperto di materie prime <a href="https://www.bloomberg.com/authors/ASIsQsgx0V8/javier-blas" referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank" title="Javier Blas">Javier Blas</a> ha twittato una mappa dei prezzi dell'elettricità del giorno prima in tutta Europa. Ha definito i prezzi "straordinari, con molti paesi che hanno raggiunto livelli record per oggi".</p>
 <iframe src="https://platform.twitter.com/embed/Tweet.html?dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOlsibGlua3RyLmVlIiwidHIuZWUiXSwidmVyc2lvbiI6bnVsbH0sInRmd19ob3Jpem9uX3RpbWVsaW5lXzEyMDM0Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfY2hpbl9waWxsc18xNDc0MSI6eyJidWNrZXQiOiJjb2xvcl9pY29ucyIsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfcmVzdWx0X21pZ3JhdGlvbl8xMzk3OSI6eyJidWNrZXQiOiJ0d2VldF9yZXN1bHQiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NlbnNpdGl2ZV9tZWRpYV9pbnRlcnN0aXRpYWxfMTM5NjMiOnsiYnVja2V0IjoiaW50ZXJzdGl0aWFsIiwidmVyc2lvbiI6bnVsbH0sInRmd19leHBlcmltZW50c19jb29raWVfZXhwaXJhdGlvbiI6eyJidWNrZXQiOjEyMDk2MDAsInZlcnNpb24iOm51bGx9LCJ0ZndfZHVwbGljYXRlX3NjcmliZXNfdG9fc2V0dGluZ3MiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3R3ZWV0X2VkaXRfZnJvbnRlbmQiOnsiYnVja2V0Ijoib2ZmIiwidmVyc2lvbiI6bnVsbH19&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1562019059570556929&amp;lang=en&amp;origin=https%3A%2F%2Fwww.zerohedge.com%2Fcommodities%2Fbelgian-pm-warns-next-5-10-winters-will-be-difficult-energy-crisis-worsens&amp;sessionId=b606d18ac3870d99cee4d3390d79e62c27a77a86&amp;siteScreenName=zerohedge&amp;theme=light&amp;widgetsVersion=31f0cdc1eaa0f%3A1660602114609&amp;width=550px" frameborder="0" scrolling="no" width="500" height="835"></iframe>
 
@@ -137,12 +146,22 @@ Link all'<a href="https://www.zerohedge.com/commodities/belgian-pm-warns-next-5-
 </article>
         <aside>
             
-            <div class="grid">
+            <div class="grid width_50 mobile">
                 <div class="content">
                     <h2>Words-cloud</h2>
 <p id="cloud">
     
+        <a href="/search/vaccini">vaccini</a>
+    
+        <a href="/search/vaccino">vaccino</a>
+    
+        <a href="/search/protezione">protezione</a>
+    
         <a href="/search/governo">governo</a>
+    
+        <a href="/search/varianti">varianti</a>
+    
+        <a href="/search/persone">persone</a>
     
         <a href="/search/germania">germania</a>
     
@@ -154,11 +173,19 @@ Link all'<a href="https://www.zerohedge.com/commodities/belgian-pm-warns-next-5-
     
         <a href="/search/documentario">documentario</a>
     
-        <a href="/search/ministro">ministro</a>
+        <a href="/search/omicron">omicron</a>
     
-        <a href="/search/hedge-fund">hedge-fund</a>
+        <a href="/search/richiamo">richiamo</a>
     
         <a href="/search/investitori">investitori</a>
+    
+        <a href="/search/ministro">ministro</a>
+    
+        <a href="/search/covid-19">covid-19</a>
+    
+        <a href="/search/booster">booster</a>
+    
+        <a href="/search/hedge-fund">hedge-fund</a>
     
         <a href="/search/scommesse">scommesse</a>
     
@@ -166,52 +193,12 @@ Link all'<a href="https://www.zerohedge.com/commodities/belgian-pm-warns-next-5-
     
         <a href="/search/statunitensi">statunitensi</a>
     
-        <a href="/search/finanziaria">finanziaria</a>
-    
-        <a href="/search/italiane">italiane</a>
-    
-        <a href="/search/miliardi">miliardi</a>
-    
-        <a href="/search/europeo">europeo</a>
-    
-        <a href="/search/settembre">settembre</a>
-    
-        <a href="/search/dollari">dollari</a>
-    
-        <a href="/search/nazioni">nazioni</a>
-    
-        <a href="/search/coalizione">coalizione</a>
-    
-        <a href="/search/sanzioni">sanzioni</a>
-    
-        <a href="/search/forniture">forniture</a>
-    
-        <a href="/search/federale">federale</a>
-    
-        <a href="/search/ucraino">ucraino</a>
-    
-        <a href="/search/preoccupazioni">preoccupazioni</a>
-    
-        <a href="/search/elezioni">elezioni</a>
-    
-        <a href="/search/politica">politica</a>
-    
-        <a href="/search/rischio">rischio</a>
-    
-        <a href="/search/gestori">gestori</a>
-    
-        <a href="/search/finanziari">finanziari</a>
-    
-        <a href="/search/milioni">milioni</a>
-    
-        <a href="/search/persone">persone</a>
-    
-        <a href="/search/lettera">lettera</a>
+        <a href="/search/infezioni">infezioni</a>
     
 </p>
                 </div>
             </div>
-            <div class="grid">
+            <div class="grid width_50 mobile">
                 <div class="content">
                     <h2>Link utili</h2>
 <ul class="links">
@@ -290,6 +277,11 @@ Link all'<a href="https://www.zerohedge.com/commodities/belgian-pm-warns-next-5-
                     </div>
                 </div>
             
+            <div id="privacy" class="grid">
+                <div class="content">
+                    <p>Questo sito utilizza i cookie per migliorare la tua esperienza di navigazione. Continuando a utilizzare questo sito acconsenti all'uso dei cookie. <button>Ok!</button></p>
+                </div>
+            </div>
         </footer>
     </body>
 </html>

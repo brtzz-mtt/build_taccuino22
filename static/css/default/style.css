@@ -6,7 +6,7 @@ body {
     padding: 0;
 }
 
-body.night {
+body.night_mode {
     background-color: #333;
     color: #FFF;
 }
@@ -14,12 +14,17 @@ body.night {
 header.fixed {
     position: fixed;
     top: 0;
+    z-index: 1;
 }
 
 header.fixed div.content {
     border: none !important;
     border-radius: 0;
     margin: 0;
+}
+
+header nav #logo {
+    height: 18px;
 }
 
 article img, article iframe {
@@ -31,8 +36,14 @@ footer {
     margin-bottom: 8px;
 }
 
-nav #logo {
-    height: 18px;
+footer #privacy div.content {
+    border-width: 1px 0 0 0;
+    border-radius: 0;
+    margin: 0;
+}
+
+footer #privacy div.content p {
+    text-align: center;
 }
 
 div.content {
@@ -48,7 +59,7 @@ article div.content {
     margin-right: 0;
 }
 
-body.night div.content {
+body.night_mode div.content {
     background-color: #000;
     border: solid 1px #CCC;
     box-shadow: 0 2px #999;
@@ -70,11 +81,11 @@ span#controls > span > span.off {
     display: none;
 }
 
-body.night span#controls > span > span.on {
+body.night_mode span#controls > span > span.on {
     display: none;
 }
 
-body.night span#controls > span > span.off {
+body.night_mode span#controls > span > span.off {
     display: initial;
 }
 
@@ -117,6 +128,6 @@ a:hover {
 }
 
 
-body.night a {
+body.night_mode a {
     color: #3FC;
 }
