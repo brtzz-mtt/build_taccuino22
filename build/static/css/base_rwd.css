@@ -1,0 +1,26 @@
+@media all and (max-width:856px)
+{
+    article, aside {
+        width: 100%;
+    }
+}
+
+@media all and (max-width:428px)
+{
+    nav #current_tag, nav #tags_links {
+        display: none;
+    }
+
+    nav #tags_selector {
+        display: initial;
+    }
+
+    footer span#copyright {
+        display: none;
+    }
+    
+    footer span#copyright_mobile {
+        display: block;
+        float: right;
+    }
+}
