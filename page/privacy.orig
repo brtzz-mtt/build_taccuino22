@@ -52,7 +52,7 @@
 <span id="tags_links">
     
         
-            <a href="/tag/covid">Covid</a>
+            <a href="/tag/covid-19">Covid-19</a>
         
     
         
@@ -80,8 +80,8 @@
 <select id="tags_selector">
     <option />
     
-        <option value="covid">
-            Covid
+        <option value="covid-19">
+            Covid-19
         </option>
     
         <option value="economia">
@@ -136,7 +136,7 @@
     
         <a href="/search/vaccini">vaccini</a>
     
-        <a href="/search/vaccino">vaccino</a>
+        <a href="/search/gas">gas</a>
     
         <a href="/search/protezione">protezione</a>
     
@@ -144,39 +144,83 @@
     
         <a href="/search/varianti">varianti</a>
     
+        <a href="/search/booster">booster</a>
+    
         <a href="/search/persone">persone</a>
+    
+        <a href="/search/prezzi">prezzi</a>
     
         <a href="/search/germania">germania</a>
     
-        <a href="/search/naturale">naturale</a>
+        <a href="/search/russia">russia</a>
     
         <a href="/search/ucraina">ucraina</a>
     
         <a href="/search/obbligazioni">obbligazioni</a>
     
+        <a href="/search/nord-stream">nord-stream</a>
+    
+        <a href="/search/cbs">cbs</a>
+    
         <a href="/search/documentario">documentario</a>
     
         <a href="/search/omicron">omicron</a>
     
-        <a href="/search/richiamo">richiamo</a>
+        <a href="/search/covid-19">covid-19</a>
     
         <a href="/search/investitori">investitori</a>
     
+        <a href="/search/cromer">cromer</a>
+    
         <a href="/search/ministro">ministro</a>
     
-        <a href="/search/covid-19">covid-19</a>
+        <a href="/search/armi">armi</a>
     
-        <a href="/search/booster">booster</a>
+        <a href="/search/dose">dose</a>
+    
+        <a href="/search/studi">studi</a>
     
         <a href="/search/hedge-fund">hedge-fund</a>
     
+        <a href="/search/crisi">crisi</a>
+    
+        <a href="/search/euro">euro</a>
+    
         <a href="/search/scommesse">scommesse</a>
+    
+        <a href="/search/guerra">guerra</a>
     
         <a href="/search/artigiani">artigiani</a>
     
-        <a href="/search/statunitensi">statunitensi</a>
+        <a href="/search/azioni">azioni</a>
     
         <a href="/search/infezioni">infezioni</a>
+    
+        <a href="/search/bivalenti">bivalenti</a>
+    
+        <a href="/search/rischio">rischio</a>
+    
+        <a href="/search/anticorpi">anticorpi</a>
+    
+        <a href="/search/risultati">risultati</a>
+    
+        <a href="/search/finanziaria">finanziaria</a>
+    
+        <a href="/search/preoccupazioni">preoccupazioni</a>
+    
+        <a href="/search/miliardi">miliardi</a>
+    
+        <a href="/search/asset">asset</a>
+    
+        <a href="/search/dollari">dollari</a>
+    
+        <a href="/search/nazioni">nazioni</a>
+    
+        <a href="/search/bce">bce</a>
+    
+        <a href="/search/coalizione">coalizione</a>
+    
+        <a href="/search/debito">debito</a>
     
 </p>
                 </div>
@@ -236,6 +280,10 @@
     
         <li>
             <h3><a href="https://www.transparency.org/en/news" target="_blank">transparency.org/en/news</a></h3>
+        </li>
+    
+        <li>
+            <h3><a href="https://visionetv.it" target="_blank">visionetv.it</a></h3>
         </li>
     
         <li>
