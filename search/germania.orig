@@ -52,6 +52,10 @@
 <span id="tags_links">
     
         
+            <a href="/tag/censura">Censura</a>
+        
+    
+        
             <a href="/tag/covid-19">Covid-19</a>
         
     
@@ -61,10 +65,6 @@
     
         
             <a href="/tag/energia">Energia</a>
-        
-    
-        
-            <a href="/tag/esteri">Esteri</a>
         
     
         
@@ -80,6 +80,10 @@
 <select id="tags_selector">
     <option />
     
+        <option value="censura">
+            Censura
+        </option>
+    
         <option value="covid-19">
             Covid-19
         </option>
@@ -90,10 +94,6 @@
     
         <option value="energia">
             Energia
-        </option>
-    
-        <option value="esteri">
-            Esteri
         </option>
     
         <option value="finanza">
@@ -153,7 +153,7 @@
         <li>
             <br />
             <h3><a href="/article/2022-08-17_guarda-il-film-arming-ukraine-che-la-cbs-ha-ritirato-dopo-le-pressioni-del-governo">Guarda il film &#39;Arming Ukraine&#39; che la CBS ha ritirato dopo le pressioni del governo</a></h3>
-            <p><small>Pubblicato il 17/08/2022 in esteri</small></p>
+            <p><small>Pubblicato il 17/08/2022 in censura</small></p>
             <p>Il ministro degli esteri ucraino ha chiesto un&#39;indagine sul documentario, dal quale è emerso che la maggior parte degli aiuti militari non arrivava in prima linea</p>
         </li>
     

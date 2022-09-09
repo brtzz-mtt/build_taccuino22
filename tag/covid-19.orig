@@ -52,6 +52,10 @@
 <span id="tags_links">
     
         
+            <a href="/tag/censura">Censura</a>
+        
+    
+        
     
         
             <a href="/tag/economia">Economia</a>
@@ -59,10 +63,6 @@
     
         
             <a href="/tag/energia">Energia</a>
-        
-    
-        
-            <a href="/tag/esteri">Esteri</a>
         
     
         
@@ -78,6 +78,10 @@
 <select id="tags_selector">
     <option />
     
+        <option value="censura">
+            Censura
+        </option>
+    
         <option value="covid-19" selected>
             Covid-19
         </option>
@@ -88,10 +92,6 @@
     
         <option value="energia">
             Energia
-        </option>
-    
-        <option value="esteri">
-            Esteri
         </option>
     
         <option value="finanza">
