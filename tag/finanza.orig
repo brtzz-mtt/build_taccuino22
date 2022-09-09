@@ -64,9 +64,9 @@
         
     
         
-    
+            <a href="/tag/esteri">Esteri</a>
         
-            <a href="/tag/guerra">Guerra</a>
+    
         
     
         
@@ -90,12 +90,12 @@
             Energia
         </option>
     
-        <option value="finanza" selected>
-            Finanza
+        <option value="esteri">
+            Esteri
         </option>
     
-        <option value="guerra">
-            Guerra
+        <option value="finanza" selected>
+            Finanza
         </option>
     
         <option value="politica">
