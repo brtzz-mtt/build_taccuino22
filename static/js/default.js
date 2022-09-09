@@ -2,7 +2,7 @@ $(function() {
     console.log("JQuery v" + $.fn.jquery + " loaded!");
 
     if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('./worker.js').then(function(registration) { // registration was successful
+        navigator.serviceWorker.register('/worker.js').then(function(registration) { // registration was successful
             console.log('Service worker registration successful with scope: ', registration.scope);
         }).catch(function(error) { // registration failed :(
             console.log('Service worker registration failed: ', error);
