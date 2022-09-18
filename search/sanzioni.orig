@@ -33,7 +33,7 @@
     <link rel=icon href="/static/img/default/favicon.png" sizes="24x24" type="image/png" />
     <link rel="apple-touch-icon" href="/static/img/default/favicon.png">
     <link rel="manifest" href="/manifest.json">
-    <title>Taccuino22 | L&#39;hedge-fund di Michael Burry ha acquisito un nuovo titolo ma scaricato tutto il resto</title>
+    <title>Taccuino22</title>
     <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script defer src="/static/js/default.js"></script>
     <!-- Google tag (gtag.js) -->
@@ -125,31 +125,26 @@
         <article>
     <div class="grid">
         <div class="content">
-            <h1>L&#39;hedge-fund di Michael Burry ha acquisito un nuovo titolo ma scaricato tutto il resto</h1>
-<p><small>Pubblicato il 15/08/2022 in finanza</small></p>
-<br />
-<p>Il gestore di asset finanziari <a href="https://www.scionasset.com/" referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank" title="Scion">Scion</a>, di proprietà di <a href="https://en.wikipedia.org/wiki/Michael_Burry" referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank" title="Michael Burry">Michael Burry</a> ha liquidato nel corso del secondo trimestre ben 11 posizioni azionarie statunitensi, mantenendone una sola.</p>
-<p>L'<a href="https://it.wikipedia.org/wiki/Fondo_speculativo" referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank" title="hedge-fund">hedge-fund</a> è uscito da posizioni tra cui <a href="https://abc.xyz/" referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank" title="Alphabet Inc.">Alphabet Inc.</a> e la societá madre di Facebook, <a href="https://about.facebook.com/" referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank" title="Meta Platforms Inc.">Meta Platforms Inc.</a>, mentre aumentava azioni del gestore di carceri private <a href="https://www.geogroup.com/" referrerpolicy="no-referrer" rel="noopener noreferrer" target="_blank" title="Geo Group Inc.">Geo Group Inc.</a>, che era al lunedì 30 giugno l'unica posizione a lungo termine di Scion, secondo la notifica di deposito normativa.</p>
-<p>Scion deteneva ancora 501.360 azioni di Geo Group, con sede a Boca Raton in Florida, salito lunedì dell'11% fino a 7,60$ per azione, aumentando il suo guadagno dalla fine del secondo trimestre di oltre il 15%.</p>
-<p>Scion deteneva fino all'equivalente di 165 milioni di dollari in azioni statunitensi alla fine del primo trimestre.</p>
-<p>Burry, 51 anni, che è salito alla ribalta dopo una scommessa vincente contro i mutui nel periodo che ha preceduto la crisi finanziaria del 2008, è diventato una figura di culto sui social media negli ultimi mesi, a causa di inquietanti previsioni su di una flessione incombente. In un tweet di maggio ha sollevato lo spettro di un incidente simile a quello di 14 anni fa.</p>
-<p>Ha rifiutato di commentare la notifica di deposito.</p>
-<p>La divulgazione, richiesta a tutti i gestori di fondi che detengono più di 100 milioni di dollari di azioni statunitensi, mostra solo le partecipazioni in azioni scambiate sulle borse nazionali. Non rivela negoziazioni di asset finanziari non statunitensi o posizioni a breve termine. Inoltre, basandosi sullo storico, fornisce una mera istantanea delle partecipazioni di un fondo alla fine del trimestre, e potrebbe non riflettere gli investimenti correnti.</p>
-<br />
-Link all'<a href="https://www.bloomberg.com/news/articles/2022-08-15/burry-s-scion-hedge-fund-cuts-long-us-stock-holdings-to-just-one" target="_blank">articolo originale</a> in inglese
-<br />
-
-
-    <br />
-    <h2>Link correlati</h2>
-    <ul class="links">
-        
-            <li>
-                <h3><a href="https://forbes.it/2022/08/17/michael-burry-scarica-azioni-punta-geo-group/" target="_blank">Michael Burry scarica tutte le azioni in portafoglio. E punta su una sola &#39;Grande scommessa&#39;</a></h3>
-            </li>
-        
-    </ul>
-
+            <h1>Risultati per 'sanzioni':</h1>
+            <br />
+            <h2>Articoli</h2>
+<ul id="articles">
+    
+        <li>
+            <br />
+            <h3><a href="/article/2022-08-24_il-premier-belga-avverte-che-i-prossimi-5-10-inverni-saranno-difficili-mentre-la-crisi-energetica-peggiora">Il premier belga avverte che &#39;i prossimi 5-10 inverni saranno difficili&#39; mentre la crisi energetica peggiora</a></h3>
+            <p><small>Pubblicato il 24/08/2022 in energia e politica</small></p>
+            <p>Ora i politici di Bruxelles usano parole dure agli europei e ostentano trasparenza, ma solo dopo aver traghettato il continente verso la crisi prossima ventura</p>
+        </li>
+    
+        <li>
+            <br />
+            <h3><a href="/article/2022-08-19_lettera-aperta-al-cancelliere-gli-artigiani-della-sassonia-chiedono-la-fine-delle-sanzioni-alla-russia">Lettera aperta al cancelliere: gli artigiani della Sassonia chiedono la fine delle sanzioni alla Russia</a></h3>
+            <p><small>Pubblicato il 19/08/2022 in economia e politica</small></p>
+            <p>La repubblica federale tedesca nega a Putin l&#39;apertura del condotto Nord-Stream 2, costato miliardi di euro ai contribuenti, ma in Germania si levano aspre proteste</p>
+        </li>
+    
+</ul>
         </div>
     </div>
 </article>
