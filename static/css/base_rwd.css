@@ -1,5 +1,9 @@
 @media all and (max-width:856px)
 {
+    .desktop_only {
+        display: none !important;
+    }
+    
     article, aside {
         width: 100%;
     }

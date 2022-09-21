@@ -6,7 +6,8 @@ article {
     width: calc(100% - 428px);
 }
 
-article img, article iframe {
+article img, article iframe,
+aside img, aside iframe {
     display: block;
     margin: auto;
     max-width: 100%;
@@ -46,7 +47,7 @@ ol, ul {
     padding-inline-start: 0;
 }
 
-nav #logo {
+nav #logo, img.logo {
     vertical-align: bottom;
 }
 

@@ -131,6 +131,11 @@ a:hover {
     color: #777 !important;
 }
 
+img.logo {
+    display: inline;
+    height: 24px;
+    width: 24px;
+}
 
 body.night_mode a {
     color: #3FC;

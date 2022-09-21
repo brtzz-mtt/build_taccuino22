@@ -27,6 +27,10 @@ div.grid.width_50:not(.mobile):not(.small_mobile) {
     width: 50%;
 }
 
+div.grid.width_66:not(.mobile):not(.small_mobile) { /* to be tested for mobile */
+    width: 66.666%;
+}
+
 @media all and (max-width:1284px)
 {
     div.grid.width_25:not(.mobile):not(.small_mobile) {
