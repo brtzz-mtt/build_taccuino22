@@ -49,4 +49,10 @@ $(function() {
             sessionStorage.setItem('cookies_accepted', 1);
         });
     }
+
+    $('span.copy_to_clipboard').on('click', function () {
+        if (navigator && navigator.clipboard && navigator.clipboard.writeText)
+            return navigator.clipboard.writeText($(this).data('content'));
+        return Promise.reject('The clipboard API is not available!');
+    });
 });

@@ -352,7 +352,11 @@ Link all'<a href="https://www.nature.com/articles/d41586-022-02806-5" target="_b
 <br />
 
 <div class="grid width_66">
-    <h3><img src="/static/img/default/logo_ethereum.png" alt="Logo Ethereum" class="logo" /> Ethereum</h3>
+    <h3>
+        <img src="/static/img/default/logo_ethereum.png" alt="Logo Ethereum" class="logo" />
+        Ethereum
+        <span class="copy_to_clipboard" data-content="0xc295A3322a0b8e9097957180cFaAbB985583ea9f">&#10063;</span>
+    </h3>
     <br />&nbsp;<br />
     <a href="https://etherscan.io/address/0xc295a3322a0b8e9097957180cfaabb985583ea9f" target="_blank">
         0xc295A3322a0b8e90979
@@ -368,7 +372,11 @@ Link all'<a href="https://www.nature.com/articles/d41586-022-02806-5" target="_b
 
 
 <div class="grid width_66">
-    <h3><img src="/static/img/default/logo_ergo.png" alt="Logo ERGO" class="logo" /> ERGO</h3>
+    <h3>
+        <img src="/static/img/default/logo_ergo.png" alt="Logo ERGO" class="logo" />
+        ERGO
+        <span class="copy_to_clipboard" data-content="9ec4uYp88LHNasHYpx2iKLgwcFcXYWrHg7jtFxFyhF1C29e7Jgs">&#10063;</span>
+    </h3>
     <br />&nbsp;<br />
     <a href="https://explorer.ergoplatform.com/en/addresses/9ec4uYp88LHNasHYpx2iKLgwcFcXYWrHg7jtFxFyhF1C29e7Jgs" target="_blank">
         9ec4uYp88LHNasHYpx2iKLgwc

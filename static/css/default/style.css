@@ -123,11 +123,11 @@ p#cloud {
     text-align: center
 }
 
-a {
+a, span.copy_to_clipboard {
     color: #C03;
 }
 
-a:hover {
+a:hover, span.copy_to_clipboard:hover {
     color: #777 !important;
 }
 

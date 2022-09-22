@@ -54,3 +54,7 @@ nav #logo, img.logo {
 nav #tags_selector, footer span#copyright_mobile {
     display: none;
 }
+
+span.copy_to_clipboard {
+    cursor: pointer;
+}
